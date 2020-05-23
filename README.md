@@ -1,8 +1,17 @@
-# pxt-gra-battleships
+# pxt-gra-battleships Gra w Statki
 
-
+<IMG SRC="https://github.com/agrabara/pxt-snake-game/blob/master/snake.png?raw=true"><BR>
+  
+Sumulator -> xxxx <BR>
+Film ->   xxxx <BR>
 
 ## TODO
+[ ] sprawdzenie czy przeciwnik trafił <BR>
+[ ] weryfikacja czy przeciwnik zniszczył nasze statki <BR>
+[ ] pokazywanie i ukrywanie planszy - nasze statki + strzały przeciwnika <BR>
+[ ] pokazywanie i ukrywanie planszy - statki przciwnika + i nasze strzały <BR>
+[ ] zakończenie gry <BR>
+[ ] do zastanowienia czy robimy kolejną wersję - dla 2 osób <BR>
 
 - [ ] Add a reference for your blocks here
 - [ ] Add "icon.png" image (300x200) in the root folder
