@@ -1,6 +1,6 @@
 # pxt-gra-battleships Gra w Statki
 
-<IMG SRC="https://github.com/agrabara/pxt-snake-game/blob/master/snake.png?raw=true"><BR>
+<IMG SRC="https://github.com/agrabara/pxt-gra-battleships/blob/master/statki.png?raw=true"><BR>
   
 Sumulator -> xxxx <BR>
 Film ->   xxxx <BR>
