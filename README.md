@@ -2,7 +2,7 @@
 
 <IMG SRC="https://github.com/agrabara/pxt-gra-battleships/blob/master/statki.png?raw=true"><BR>
   
-Sumulator -> xxxx <BR>
+Sumulator -> https://makecode.microbit.org/_aXKRzF9AegTg <BR>
 Film ->   xxxx <BR>
 
 ## TODO
