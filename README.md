@@ -3,7 +3,7 @@
 <IMG SRC="https://github.com/agrabara/pxt-gra-battleships/blob/master/statki.png?raw=true"><BR>
   
 Sumulator -> https://makecode.microbit.org/_Dp4UHxCjXfmv<BR>
-Film ->   xxxx <BR>
+Film ->   https://www.youtube.com/watch?v=h113H1CRm54 <BR>
 
 ## TODO
 - [X] sprawdzenie czy przeciwnik trafił <BR>
